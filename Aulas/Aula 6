@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Título</title>
+    <style>
+        .testerola{
+        width: 400px;
+        height: 300px;
+        }
+        h1 {
+        font-size: 80px;
+        }
+    </style>
+</head>
+
+    <h1 style="background: rgb(255, 0, 0)">Cabeçalho</h1>
+    <p><b>Lorem ipsum</b> <i>dolor sit</i> <strong consectetur
+         adipisicing elit.></strong> <em>Hic doloribus eligendi
+          possimus cum corporis quas</em>
+           <a href="https://www.last.fm/pt/user/luccado" target="_blank">Clique aqui imediatamente</a>ab dolores 
+          excepturi praesentium totam officiis et 
+          labore,
+          <hr>
+          <figure>
+              <img class="testerola" src="https://media.pitchfork.com/photos/5929a11c13d1975652138552/16:9/w_1280,c_limit/d452370d.jpg" alt="Álbum bom"
+              <p><figcaption>esse álbum é bem bom msm</figcaption></p>
+          </figure>
+            <hr>
+          odio saepe magnam veritatis 
+          voluptatum laborum dolorum?</p>
+          <blockquote>Aqui sim é feito uma citação</blockquote>
+</body>
+</html>
