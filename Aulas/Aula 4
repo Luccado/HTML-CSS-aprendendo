@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Documento fera</title>
+    <style>
+        h1 {
+            background-color: red;
+        }
+
+        h1 {
+            background: blueviolet;
+        }
+
+        #cabecalho-um {
+            background-color: rgb(71, 5, 25);
+        }
+        .Fundo-vermelho-borda-esqueda{
+            background: green !important;
+        }
+        .bold {
+            color: fuchsia
+        }
+    </style>
+</head>
+<body>
+    <h1> 
+        Título aleatório
+    </h1>
+    <h1 id="cabecalho-um" class="Fundo-vermelho-borda-esqueda">
+    Vai vir aqui
+    </h1>
+     <p> Um texto <b class="bold" id="cabecalho-um">Qualquer</b>
+
+    </p>
+    
+</body>
+</html>
