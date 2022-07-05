@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aula10</title>
+    <style>
+        
+        *{
+            margin: 0%;
+            padding: 0%;
+
+        }
+
+        nav{
+            height: 50px;
+            background: black;
+        }
+
+        nav a{
+            color: red;
+            align-items: center;
+            margin-left: 10px;
+            background-color: lightsalmon;
+            text-decoration: none;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
+        nav ul{
+            background: rgba(0, 0, 0,0);
+            list-style: none;
+            display: flex;
+        }
+
+    </style>
+
+</head>
+<body>
+    <nav>
+        <ul>
+            <li>
+                <a href="#">home</a>
+            </li>
+        </ul>
+    </nav>
+    <ul>
+        <li>
+            AABEIALcBEwMBIgACEQEDEQH 2
+        </li>
+        <li>
+            AABEIALcBEwMBIgACEQEDEQH 1
+        </li>
+        <li>
+            AABEIALcBEwMBIgACEQEDEQH 3
+        </li>
+    </ul>
+    <ol type="1" start="20">
+        <li>
+            na moral 1
+        </li>
+        <li>
+            na moral 2
+            na moral 2
+        </li>
+        <li>
+            na moral 3
+        </li>
+    </ol>
+
+    <dl>
+        <dt>Café</dt>
+        <dd>
+            bebida preta quente
+        </dd>
+    </dl>
+</body>
+</html>
